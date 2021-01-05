@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4", "lab4\lab4.csproj", "{16CD670A-0454-4BB1-87F2-F2A99E2797DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIG.BinaryFlag", "..\..\..\..\IIG.BinaryFlag\IIG.BinaryFlag\IIG.BinaryFlag.csproj", "{31F66863-26A4-4626-9566-BFFFEA52C1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIG.PasswordHashingUtils", "..\IIG.PasswordHashingUtils-master\IIG.PasswordHashingUtils\IIG.PasswordHashingUtils.csproj", "{685E8988-1197-431C-BB7F-5C37AA062360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIG.FileWorker", "..\IIG.FileWorker-main\IIG.FileWorker\IIG.FileWorker.csproj", "{D65ED5AC-672A-4FA7-9E95-FA2FFADFC18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CD670A-0454-4BB1-87F2-F2A99E2797DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CD670A-0454-4BB1-87F2-F2A99E2797DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CD670A-0454-4BB1-87F2-F2A99E2797DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CD670A-0454-4BB1-87F2-F2A99E2797DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F66863-26A4-4626-9566-BFFFEA52C1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F66863-26A4-4626-9566-BFFFEA52C1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F66863-26A4-4626-9566-BFFFEA52C1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F66863-26A4-4626-9566-BFFFEA52C1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685E8988-1197-431C-BB7F-5C37AA062360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685E8988-1197-431C-BB7F-5C37AA062360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685E8988-1197-431C-BB7F-5C37AA062360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685E8988-1197-431C-BB7F-5C37AA062360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65ED5AC-672A-4FA7-9E95-FA2FFADFC18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65ED5AC-672A-4FA7-9E95-FA2FFADFC18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65ED5AC-672A-4FA7-9E95-FA2FFADFC18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65ED5AC-672A-4FA7-9E95-FA2FFADFC18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB9BAC6-C712-44A1-ABDE-A02DEC31B169}
+	EndGlobalSection
+EndGlobal
